@@ -1,5 +1,5 @@
 # PRML
-Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning"
+Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning" which is originally written by [ctgk](https://github.com/ctgk/PRML), and this is a fork from [Bill Xue](https://shadowthink.com).
 
 ## Required Packages
 - python 3
